@@ -1,38 +1,17 @@
-### Hi There
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=muratsaaglam&show_icons=true&theme=radical)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muratsaaglam) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/muratsaaglam/) 
-
-
-Hi, I'm Murat SAGLAM,
+### Hi there 👋, Murat SAĞLAM
+#### Jr. iOS Developer
+![Jr. iOS Developer](https://files.fm/thumb_show.php?i=fg4h7rak6)
 
 I have been in the Jr. iOS Developer field since 2022.
+I can say that my journey in the Jr. iOS Developer field took off when I started working as the Digital Marketing Specialist of E-Commerce Departmant at Kayalar Kimy
 
-I can say that my journey in the Jr. iOS Developer field took off when I started working as the Digital Marketing Specialist of E-Commerce Departmant at Kayalar Kimya
+Skills: Swift / Xcode / JS / iOS / Mobile Developer
 
-Personality :
-
-➖Excited
-➖Innovator
-➖Confident
-➖Disciplined
-➖Technological
-
-Specialties :
+- 🔭 I’m currently working on this page. 
 
 
-➖Swift 5.0 - .Core ve FireBase Applications
-➖Marketplace Management ( All online marketplaces in Turkey )
-➖E-Commerce Management 
-➖Google Ads ( Advertisement ) Management ( Per Month 15 - 20K )
-➖Google Analystics Data Processing And Management
-➖Google Search Console Management 
-➖Google My Business Management
-➖Providing SEO Optimization
-➖SEO Compatible Blog Text Write
-➖Facebook & Instagram Content And Advertisement Management ( Per Month 10 - 20K )
-➖Youtube Content And Advertisement Management
-➖Marketplace Management With ENTEGRA Software
-➖XML Sub-Dealership Setup And Publishing Management.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muratsaaglam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muratsaaglam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muratsaaglam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1muratsaglam)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muratsaaglam&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muratsaaglam)  
