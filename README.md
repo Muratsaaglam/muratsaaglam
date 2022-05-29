@@ -1,4 +1,4 @@
-### Hi there 👋, Murat SAĞLAM
+### Hi there 👋, I'm Murat SAĞLAM
 #### Software Developer
 
 I have been in the Jr. Software Developer field since 2022.
