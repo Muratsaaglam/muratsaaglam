@@ -5,9 +5,10 @@ I have been in the Software Developer field since 2020. I can say that my journe
 
 Linkedin : www.linkedin.com/in/muratsaaglam/
 
+Medium: https://medium.com/@murat_saglam
+
 Instagram : https://www.instagram.com/muratsaaglam/ 
 
-Medium: https://medium.com/@murat_saglam
 
 🔭 Skills: Swift / Xcode / iOS / C# / Web Developer / Axapta
 
