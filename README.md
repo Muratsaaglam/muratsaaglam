@@ -5,7 +5,7 @@ I have been in the Software Developer field since 2020. I can say that my journe
 
 Linkedin : www.linkedin.com/in/muratsaaglam/
 
-Coderbyte : https://www.coderbyte.com/profile/muratsaglam
+Coderbyte : https://www.coderbyte.com/profile/muratsaglamsoftware
 
 Medium: https://medium.com/@murat_saglam
 
