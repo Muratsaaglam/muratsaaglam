@@ -9,10 +9,8 @@ Coderbyte : https://www.coderbyte.com/profile/muratsaglamsoftware
 
 Medium: https://medium.com/@murat_saglam
 
-Instagram : https://www.instagram.com/muratsaaglam/ 
 
-
-🔭 Skills: Swift / Xcode / iOS / C# / Web Developer / Axapta
+🔭 Skills: Swift / C# / Web Developer / Axapta
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muratsaaglam&show_icons=true)  
